@@ -70,28 +70,19 @@ Developed by: JEGATHEESWARI R
 
 RegisterNumber: 212223230092
 
-
-module ex1( a,b,y1,y2,y3,y4,y5,y6,y7);
-
+ ```
+module exp1 (a,b,Y1,Y2,Y3,Y4,Y5,Y6,Y7);
 input a,b;
-
-output y1,y2,y3,y4,y5,y6,y7;
-
-and (y1,a,b);
-
-or (y2,a,b);
-
-not (y3,a);
-
-xor (y4,a,b);
-
-nand (y5,a,b);
-
-nor (y6,a,b);
-
-xnor ( y7,a,b);
-
+output Y1,Y2,Y3,Y4,Y5,Y6,Y7;
+and(Y1,a,b);
+or(Y2,a,b);
+not(Y3,a);
+xor(Y4,a,b);
+nand(Y5,a,b);
+nor(Y6,a,b);
+xnor(Y7,a,b);
 endmodule
+```
 
  
 **Truthtable**
