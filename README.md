@@ -90,9 +90,6 @@ endmodule
 ![image](https://github.com/Jegatheeswarir/study-of-basic-gates/assets/144871077/e923c537-c222-40e2-b921-02389639b7a8)
 
 
-
-![image](https://github.com/Jegatheeswarir/study-of-basic-gates/assets/144871077/62a9a2ff-8004-456d-9af6-0d46bf0ece28)
-
 ## Waveform:
 
 ![image](https://github.com/Jegatheeswarir/study-of-basic-gates/assets/144871077/24c1cf22-cf1a-4f44-87b7-040d69a31440)
